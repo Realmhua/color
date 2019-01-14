@@ -1,3 +1,1 @@
-vi,touch is command for creating files
-cp,mv too, as cp for copying, mv for moving
-
+console.log('it is dawning');
